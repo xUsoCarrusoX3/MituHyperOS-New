@@ -21,7 +21,7 @@ Native HyperOS customization, precision refresh rate control, standalone Shizuku
 
 - **Refresh Rate Control**
   - Force target refresh rate across apps and games or lock it continuously.
-  - Configurable target frequency (`30–360 Hz`, automatically adapted to your display) with full reboot persistence.
+  - Configurable target frequency (`30–144 Hz`, automatically adapted to your display) with full reboot persistence.
 - **Standalone Shizuku Mode**
   - Built-in Shizuku replacement with zero dependency on the external Shizuku app.
 - **Native HyperOS Customization**
