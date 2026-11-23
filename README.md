@@ -6,7 +6,7 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/xUsoCarrusoX3/MituHyperOS-New?style=for-the-badge&logo=github&label=Release&color=0078D4)](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)
 [![Platform](https://img.shields.io/badge/HyperOS-2%20%7C%203%20%7C%204-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)
-[![Framework](https://img.shields.io/badge/Framework-LSPosed-4CAF50?style=for-the-badge)](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)
+[![Framework](https://img.shields.io/badge/Framework-LSPosed%20%7C%20Vector-4CAF50?style=for-the-badge)](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/xUsoCarrusoX3/MituHyperOS-New/total?style=for-the-badge&color=6E40C9)](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases)
 
 Native HyperOS customization, precision refresh rate control, standalone Shizuku mode, and system utilities — seamlessly integrated into **Settings**.
@@ -36,14 +36,14 @@ Native HyperOS customization, precision refresh rate control, standalone Shizuku
 ## Requirements
 
 - Xiaomi / Redmi / POCO device running **HyperOS**
-- **Root** (KernelSU / Magisk / APatch) with **LSPosed** installed
+- **Root** (KernelSU / Magisk / APatch) with **LSPosed / Vector** installed
 
 ---
 
 ## Installation
 
 1. Download the latest APK from **[Releases](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)**.
-2. Install the APK and enable **Mitu HyperOS** in **LSPosed** (keep the recommended scope).
+2. Install the APK and enable **Mitu HyperOS** in **LSPosed / Vector** (keep the recommended scope).
 3. Reboot your device.
 4. Open **Settings → Personalizations ++**.
 
