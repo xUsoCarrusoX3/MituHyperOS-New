@@ -1,35 +1,54 @@
+<div align="center">
+
 # Mitu HyperOS
 
-Módulo Xposed / LSPosed avanzado para **Xiaomi HyperOS** que desbloquea personalización nativa, control de tasa de refresco, herramientas de sistema y reemplazo autónomo de Shizuku directamente integrado en los Ajustes de HyperOS.
+**Advanced LSPosed / Xposed module for Xiaomi HyperOS**
+
+[![Latest Release](https://img.shields.io/github/v/release/xUsoCarrusoX3/MituHyperOS-New?style=for-the-badge&logo=github&label=Release&color=0078D4)](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)
+[![Platform](https://img.shields.io/badge/HyperOS-1%20%7C%202%20%7C%203-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)
+[![Framework](https://img.shields.io/badge/Framework-LSPosed-4CAF50?style=for-the-badge)](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/xUsoCarrusoX3/MituHyperOS-New/total?style=for-the-badge&color=6E40C9)](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases)
+
+Native HyperOS customization, precision refresh rate control, standalone Shizuku mode, and system utilities — seamlessly integrated into **Settings**.
+
+[Download Latest Release](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)
+
+</div>
 
 ---
 
-## Descarga
+## Features
 
-Descarga siempre la última versión oficial desde la sección de **[Releases](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)**.
-
-> **Nota:** A partir de la v1.3, el módulo incluye un **actualizador integrado con interfaz nativa de Xiaomi (MIUIX)** que te avisará automáticamente cuando haya una nueva versión disponible con su lista de cambios (Changelog) para descargar e instalar en un toque.
-
----
-
-## Características principales
-
-- **Control avanzado de tasa de refresco (Hz)**:
-  - Forzar frecuencia objetivo en todas las aplicaciones y juegos.
-  - Forzar frecuencia máxima todo el tiempo sin caídas por inactividad.
-  - **Cambiar objetivo de frecuencia** (`30, 60, 90, 120, 144, 185, 240, 360 Hz` adaptado a los modos de tu pantalla) con persistencia tras reinicio y protección contra reinicios de `SystemUI`.
-- **Modo Shizuku integrado y autónomo**:
-  - Reemplaza a la app oficial de Shizuku sin necesidad de instalarla aparte.
-- **Personalización nativa de HyperOS**:
-  - Modo negro AMOLED sin marcos grises, colores de Google Monet e interruptores, mosaicos cuadrados del Centro de Control, barra de estado (hasta 8 iconos), sonidos personalizados y personalización del menú de Ajustes.
-- **Herramientas y parches del sistema**:
-  - Debloater integrado con base de datos UAD, amplificador de volumen, bloqueo de `FLAG_SECURE`, ocultación de opciones de desarrollador, control de firmas (CorePatch con confirmación de seguridad) y más.
+- **Refresh Rate Control**
+  - Force target refresh rate across apps and games or lock it continuously.
+  - Configurable target frequency (`30–360 Hz`, automatically adapted to your display) with full reboot persistence.
+- **Standalone Shizuku Mode**
+  - Built-in Shizuku replacement with zero dependency on the external Shizuku app.
+- **Native HyperOS Customization**
+  - Pure AMOLED dark mode without gray frames, custom Google Monet & toggle accent colors, square Control Center tiles, expanded status bar notification icons, custom system sounds, and main Settings layout customization.
+- **System Utilities**
+  - Integrated Debloater powered by the UAD database, audio volume booster, `FLAG_SECURE` bypass, developer options cloaking, and signature verification control.
+- **Built-in Updater**
+  - Native HyperOS update dialog with changelog preview and one-tap download & installation directly from GitHub Releases.
 
 ---
 
-## Instalación
+## Requirements
 
-1. Instala el APK desde **[Releases](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)**.
-2. Activa **Mitu HyperOS** en **LSPosed** (mantén el alcance recomendado).
-3. Reinicia tu dispositivo.
-4. Abre **Ajustes** → **Mitu HyperOS**.
+- Xiaomi / Redmi / POCO device running **HyperOS**
+- **Root** (KernelSU / Magisk / APatch) with **LSPosed** installed
+
+---
+
+## Installation
+
+1. Download the latest APK from **[Releases](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)**.
+2. Install the APK and enable **Mitu HyperOS** in **LSPosed** (keep the recommended scope).
+3. Reboot your device.
+4. Open **Settings → Mitu HyperOS**.
+
+---
+
+## License
+
+This repository hosts official public releases only. See [LICENSE](LICENSE) for details.
