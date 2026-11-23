@@ -5,7 +5,7 @@
 **Advanced LSPosed / Xposed module for Xiaomi HyperOS**
 
 [![Latest Release](https://img.shields.io/github/v/release/xUsoCarrusoX3/MituHyperOS-New?style=for-the-badge&logo=github&label=Release&color=0078D4)](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)
-[![Platform](https://img.shields.io/badge/HyperOS-1%20%7C%202%20%7C%203-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)
+[![Platform](https://img.shields.io/badge/HyperOS-2%20%7C%203%20%7C%204-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)
 [![Framework](https://img.shields.io/badge/Framework-LSPosed-4CAF50?style=for-the-badge)](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/xUsoCarrusoX3/MituHyperOS-New/total?style=for-the-badge&color=6E40C9)](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases)
 
