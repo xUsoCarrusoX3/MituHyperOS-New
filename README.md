@@ -45,7 +45,7 @@ Native HyperOS customization, precision refresh rate control, standalone Shizuku
 1. Download the latest APK from **[Releases](https://github.com/xUsoCarrusoX3/MituHyperOS-New/releases/latest)**.
 2. Install the APK and enable **Mitu HyperOS** in **LSPosed** (keep the recommended scope).
 3. Reboot your device.
-4. Open **Settings → Mitu HyperOS**.
+4. Open **Settings → Personalizations ++**.
 
 ---
 
