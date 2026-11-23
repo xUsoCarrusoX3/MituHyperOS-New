@@ -29,7 +29,7 @@ Native HyperOS customization, precision refresh rate control, standalone Shizuku
 - **System Utilities**
   - Integrated Debloater powered by the UAD database, audio volume booster, `FLAG_SECURE` bypass, developer options cloaking, and signature verification control.
 - **Built-in Updater**
-  - Native HyperOS update dialog with changelog preview and one-tap download & installation directly from GitHub Releases.
+  - In-app update checker with changelog preview and one-tap download & installation directly from GitHub Releases.
 
 ---
 
